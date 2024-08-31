@@ -14,21 +14,21 @@
  
  🌱 I’m currently learning **Socket, DSA, C++**
 
-💬 Ask me about **Node.js, React, MongoDB... or anything [here](www.linkedin.com/in/suhail-salmani-8832b4262)**
+💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://www.linkedin.com/in/suhail-salmani-8832b4262)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- </div>
+</div>
  
 <div align="center"> 
-  <a href="mailtoSuhailkhansj11@gmail.com">
+  <a href="mailto:Suhailkhansj11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/suhail-salmani-8832b4262" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white  target="_blank"/>
+  <a href="https://www.linkedin.com/in/suhail-salmani-8832b4262" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://suhail-portfolio-website.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"  target="_blank"/> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
@@ -57,10 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Suhail6736.vercel.app/?user=Suhail6736&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Suhail6736.vercel.app/api?username=Suhail6736&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Suhail6736&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Suhail6736&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Suhail6736.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail6736&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>

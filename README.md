@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suhail!;" />
 </h1>
 
-<h3 align="center">A passionate Web developer from India <img width=100 src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="img" /></h3>
+<h3 align="center">A passionate Web developer from India <img width=50 src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="img" /></h3>
 
 <br/>
 
